@@ -15,7 +15,7 @@ header{
     margin: auto;
     display: inline-block;
     height: 500px;
-    width: 100%;
+    width: 100vw;
     background-attachment: fixed;
     background-size: cover;
     background-position:   center; 
