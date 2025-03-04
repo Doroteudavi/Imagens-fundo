@@ -1,0 +1,61 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: -20px -20px 0px -20px;
+    text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.507);
+    border-radius: 0px 0px 20px 20px;
+}
+.imagem{
+    background-color: gray;
+    margin: auto;
+    display: inline-block;
+    height: 500px;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position:   center; 
+    color: white;
+    box-shadow: inset 3px 3px 1px rgba(0, 0, 0, 0.336);
+    text-align: center;
+    
+}
+section.imagem > p{
+    background-color: rgba(0, 0, 0, 0.329);
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+    font-size: 1.1em;
+    margin-top: 10px;
+    font-family: 'Permanent Marker', cursive;
+}
+.normal{
+    width: 35vw;
+    text-align: center;
+    margin:auto;
+    padding: 20px;
+    font-size: 1.3em;;
+    display:block;
+    font-family: 'Permanent Marker', cursive;
+}
+#image1{
+background-image: url(imagens/imagens-do-minecraft-1920-x-1080-rha9qwltxxhvmyq4.webp);
+
+
+}
+#image2{
+background-image: url(imagens/MobsSM.webp);
+}
+#image3{
+background-image: url(imagens/minecraft-herobrine-standing-in-darkness-2ocsawdmhvtl0qwq.webp);
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
